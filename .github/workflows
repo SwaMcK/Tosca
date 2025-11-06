@@ -6,7 +6,7 @@ on:
       event:
         description: 'Event to execute'
         required: true
-        default: '3a18efd4-e24b-3c7c-ad06-e985abaf6dbb'
+        default: '3a18efd4-e24b-59f4-29b9-9c8cfceaf528'
 
 jobs:
   run-tosca-tests:
